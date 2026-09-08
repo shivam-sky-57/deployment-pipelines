@@ -1,0 +1,22 @@
+{
+  "name": "deployment-pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-sky-57/deployment-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shivam-sky-57/deployment-pipelines/issues"
+  },
+  "homepage": "https://github.com/shivam-sky-57/deployment-pipelines#readme"
+}
